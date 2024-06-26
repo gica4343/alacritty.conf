@@ -1,9 +1,9 @@
 import = [
-  "~/.config/alacritty/monokai_charcoal.toml"
+  "~/.config/alacritty/monokai_dark.toml"
 ]
 
 [env]
 TERM = "xterm-256color"
 
 [window]
-opacity = 1
+opacity = 0.99
