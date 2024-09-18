@@ -1,1 +1,1 @@
-```git clone https://github.com/gica4343/alacritty.conf.git ~/.config/alacritty && bash```
+```git clone https://github.com/gica4343/alacritty.conf.git ~/.config/alacritty```
