@@ -5,4 +5,4 @@ TERM = "xterm-256color"
 opacity = 1.0
 
 [font]
-normal = {family = "CommitMono Nerd Font Propo"}
+normal = {family = "CommitMono Nerd Font Mono"}
